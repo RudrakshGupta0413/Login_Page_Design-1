@@ -64,24 +64,6 @@ nav .container-fluid {
     width: 0;
 }
 
-/*.card .container-icon .circle {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    background-color: #3651e3;
-    background-image: linear-gradient(43deg, #3651e3 0%, #88217f 48%, #f5bb4b 100%);
-    height: 48px;
-    width: 48px;
-    border-radius: 50%;
-}
-
-.card .container-icon .circle i {
-    color: #ffffff;
-    font-size: 1.25rem;
-    font-weight: 900;
-}*/
-
 .card .container-form form {
     display: flex;
     flex-direction: column;
